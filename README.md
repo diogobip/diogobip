@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @diogobip
+- 👋 Hi, I’m Diogo Batista
 - 👀 I’m interested in Data analisys
-- 🌱 I’m currently learning Python and Pandas
+- 🌱 I’m currently learning SQL, Excel and Power Bi
 
 <!---
 diogobip/diogobip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
